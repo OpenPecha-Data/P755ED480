@@ -1,0 +1,42 @@
+id: P755ED480
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG12028
+  instance_id: http://purl.bdrc.io/resource/IE1KG12028
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - འདུལ་བ་མདོ་རྩའི་རྒྱས་འགྲེལ་སྤྱིའི་དོན་མཐའ་དཔྱད་དང་བསྡུས་དོན་ས་བཅད་དང་འབྲུ་དོན་མཐར་ཆགས་སུ་གཉེར་བ་བཅས།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P385
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6610f502a9104a4e865395852d31021a:
+      title: ༄༅།་།འདུལ་བ་མདོ་རྩ་བའི་རྒྱ་ཆེར་འགྲེལ་སྤྱིའི་དོན་མཐའ་དཔྱད་དང་བསྡུས་དོན་ས་བཅད་དང་
+      volume_number: 3
+      base_file: UT1KG12028_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF27E3EF5CE415641
+      image_group: null
+      quality: null
+    3f7cfbae44f34d0ca5d78bdb433c848b:
+      title: ༄༅།་།འདུལ་བ་མདོ་རྩ་བའི་རྒྱ་ཆེར་འགྲེལ་སྤྱིའི་དོན་མཐའ་དཔྱད་དང་
+      volume_number: 1
+      base_file: UT1KG12028_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0A64B6A7034A2D99
+      image_group: null
+      quality: null
+    99c8874a3e87406ab3601df440e6a39d:
+      title: ༄༅།་།འདུལ་བ་མདོ་རྩ་བའི་རྒྱ་ཆེར་འགྲེལ་སྤྱིའི་དོན་མཐའ་དཔྱད་དང་
+      volume_number: 2
+      base_file: UT1KG12028_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0D214DF5C00AAE80
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG12028
+  - http://purl.bdrc.io/resource/W1KG12028
+created_at: '2021-12-22T10:32:21.913583'
+last_modified_at: '2021-12-22T10:32:21.913590'
